@@ -1,8 +1,8 @@
 {
-   "dev": {},
-   "bsctest": {
-      "LckToken": "0xdB868486B732DEc5c42Dd3E1CCB77355465DC0Ac",
-      "Product": "0x340147881BBf0CC4f0022cD445e808632f61678F"
-   },
-   "main": {}
+  "dev": {},
+  "bsctest": {
+    "LckToken": "0xD17330C07dfAa894C671906A21c10f544eC4f96D",
+    "Product": "0xF479F3305C52A7F1683842ed30f61d096f16bbba"
+  },
+  "main": {}
 }
